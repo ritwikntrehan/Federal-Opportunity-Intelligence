@@ -1,0 +1,7 @@
+[
+  {"id":"persona-city-innovation","label":"City Innovation Office","orgType":"City Government","sector":"Urban Infrastructure","geography":"Mid-Atlantic","priorities":["Funding fit clarity","Implementation feasibility","Cross-department coordination"]},
+  {"id":"persona-rural-nonprofit","label":"Rural Systems Nonprofit","orgType":"Nonprofit","sector":"Regional Capacity Building","geography":"Mountain West","priorities":["Partner identification","Grant readiness","Operational sustainability"]},
+  {"id":"persona-university-consortium","label":"University-Led Consortium","orgType":"University","sector":"Applied Research","geography":"National","priorities":["Commercialization pathway","Workforce integration","Consortium governance"]},
+  {"id":"persona-tribal-agency","label":"Tribal Infrastructure Agency","orgType":"Tribal Government","sector":"Water and Utilities","geography":"Tribal Lands","priorities":["Capital planning","Sovereign governance alignment","Workforce development"]},
+  {"id":"persona-health-collaborative","label":"County Health Collaborative","orgType":"Health System","sector":"Behavioral Health","geography":"South","priorities":["Service access expansion","Referral integration","Outcome reporting"]}
+]
