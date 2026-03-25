@@ -1,0 +1,14 @@
+[
+  {"id":"partner-state-energy-office","name":"State Energy Office Network","type":"State Agency","geography":"Multi-State","rationale":"Often provides implementation coordination and utility relationships for energy programs."},
+  {"id":"partner-land-grant-u","name":"Great Plains Land-Grant University","type":"University","geography":"Midwest","rationale":"Contributes technical analysis, evaluation design, and extension delivery capacity."},
+  {"id":"partner-regional-workforce-board","name":"Regional Workforce Board Consortium","type":"Workforce Board","geography":"National","rationale":"Provides employer pipeline alignment and participant recruitment infrastructure."},
+  {"id":"partner-community-college-network","name":"Community College Applied Learning Network","type":"Community College","geography":"National","rationale":"Supports credential alignment, facilities access, and employer-facing program delivery."},
+  {"id":"partner-county-health-system","name":"County Behavioral Health Collaborative","type":"Health System","geography":"South Atlantic","rationale":"Brings referral pathways and care integration experience for access-focused awards."},
+  {"id":"partner-public-housing-alliance","name":"Public Housing Operations Alliance","type":"Public Housing Authority","geography":"National","rationale":"Provides portfolio operations context and resident engagement implementation support."},
+  {"id":"partner-rural-planning-org","name":"Rural Mobility Planning Organization","type":"Regional Planning Agency","geography":"Mountain West","rationale":"Coordinates corridor-level planning and multi-jurisdiction safety investments."},
+  {"id":"partner-tribal-transportation-office","name":"Intertribal Infrastructure Office","type":"Tribal Government","geography":"Tribal Lands","rationale":"Supports sovereign planning processes and capital delivery coordination."},
+  {"id":"partner-food-policy-council","name":"Regional Food Policy Council","type":"Nonprofit","geography":"Southeast","rationale":"Connects producer networks with institutional demand and policy coordination."},
+  {"id":"partner-state-innovation-corp","name":"State Innovation Development Corporation","type":"Economic Development Organization","geography":"National","rationale":"Helps structure commercialization support and co-investment relationships."},
+  {"id":"partner-regional-planning-council","name":"Metropolitan Climate Planning Council","type":"Regional Planning Agency","geography":"National","rationale":"Provides emissions modeling and implementation sequencing support."},
+  {"id":"partner-state-medicaid-office","name":"State Medicaid Strategy Office","type":"State Agency","geography":"National","rationale":"Critical for reimbursement alignment in behavioral health access programs."}
+]
